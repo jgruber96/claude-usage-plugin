@@ -82,4 +82,8 @@ Its percentages update when a Claude Code session reports new ones. Chat use cou
 
 The bar-and-pace-line look follows [UI+ for Claude](https://github.com/LukasvanUden/ui-plus-for-claude) by Lukas van Uden. This project shares no code with it and works differently: it does not inject anything into the Claude app.
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 Not affiliated with or endorsed by Anthropic. Claude is a trademark of Anthropic, PBC.
