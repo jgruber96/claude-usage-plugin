@@ -68,6 +68,8 @@ To check a change: `claude plugin validate ./plan-usage` and `claude plugin test
 
 ## Overlay card (Windows)
 
+<img src="docs/overlay.png" width="360" alt="The overlay card: Usage, 17% under pace for the week. Context 58% used, 116.4k of 200k tokens, in my-project. Session limit 62% used with an orange pace line, 7% over pace, resets in 2 hr 14 min. Weekly 40% used with a green pace line, resets Tue 4:57 PM.">
+
 A separate always-on-top card that pins itself to the bottom-left of the Claude desktop window and follows it, so the usage sits over the sidebar in both Chat and Code. It needs the mod installed, which supplies its figures, and nothing else: it is a single Windows PowerShell script.
 
 Start it by double-clicking `overlay/start-overlay.cmd`.
