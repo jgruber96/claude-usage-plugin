@@ -62,6 +62,8 @@ In the desktop app, where `/plugin` does not run: click + next to the prompt box
 - **Usage panel:** the row's Details button, or `/plan-usage`. Context and every limit, each with its bars, reset time and pace, and a warning when the current rate would reach the limit before reset.
 - **Widget:** minimize the panel to get a small glance card.
 
+<img src="docs/panel.png" width="669" alt="The Usage panel: 31% under pace for the week. Context 32% used, 318.8k of 1M tokens. Session limit 36% used, resets in 1 hr 15 min, 39% under pace. Weekly 12% used, resets in 3 d 22 hr, 31% under pace. Session cost at API prices, an estimate.">
+
 In a terminal the mod draws no row, since the status line already shows the figures there.
 
 The mod also writes the latest reading to `~/.claude/plan-usage.json` for the overlay.
