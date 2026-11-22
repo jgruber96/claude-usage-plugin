@@ -1,0 +1,7 @@
+# Type declarations Claude Code lays beside a loaded mod
+plan-usage/.claude-plugin/types/
+plan-usage/tsconfig.json
+
+node_modules/
+Thumbs.db
+.DS_Store

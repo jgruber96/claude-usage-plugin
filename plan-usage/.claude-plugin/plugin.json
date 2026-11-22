@@ -1,0 +1,6 @@
+{
+  "name": "plan-usage",
+  "version": "0.1.0",
+  "description": "Shows 5-hour session and 7-day week plan usage, with a pace figure for each, in a row above the prompt.",
+  "types": "./types/index.d.ts"
+}
