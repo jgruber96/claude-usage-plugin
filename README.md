@@ -50,6 +50,8 @@ The figures appear after the first response in a session, and only on plans that
 
 The desktop app does not run the status line script, so the mod draws the same figures there.
 
+<img src="docs/row.png" width="760" alt="The row above the prompt: Usage, Session 34% with its bars, resets in 1 hr 21 min, Weekly 12% with its bars, resets in 3 d 23 hr, 31% under pace, Context 31%, and a Details button.">
+
 ```
 /plugin install plan-usage --marketplace jgruber96/claude-usage-plugin
 ```
